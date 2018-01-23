@@ -9,7 +9,7 @@
     "author": "Grupo ESOC Ingeniería de Servicios, "
               "Odoo Community Association (OCA)",
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "application": False,
     "summary": "For developers who want an example",
     "depends": [
